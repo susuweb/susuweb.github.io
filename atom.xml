@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Simon_Su</title>
+  
+  <subtitle>Simon&#39;s Blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.simonsu.cn/"/>
+  <updated>2020-06-29T15:06:14.000Z</updated>
+  <id>https://www.simonsu.cn/</id>
+  
+  <author>
+    <name>Simon Su</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mysql个人笔记</title>
+    <link href="https://www.simonsu.cn/2020/06/29/mysql-ge-ren-bi-ji/"/>
+    <id>https://www.simonsu.cn/2020/06/29/mysql-ge-ren-bi-ji/</id>
+    <published>2020-06-29T14:29:11.000Z</published>
+    <updated>2020-06-29T15:06:14.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;数据库的基本操作&quot;&gt;&lt;a href=&quot;#数据库的基本操作&quot; class=&quot;headerlink&quot; title=&quot;数据库的基本操作&quot;&gt;&lt;/a&gt;数据库的基本操作&lt;/h2&gt;&lt;p&gt;创建数据库：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;create database
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="数据库的基本操作" scheme="https://www.simonsu.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用Hexo+Github搭建个人博客（2）</title>
+    <link href="https://www.simonsu.cn/2020/06/25/yong-hexo-github-da-jian-ge-ren-bo-ke-2/"/>
+    <id>https://www.simonsu.cn/2020/06/25/yong-hexo-github-da-jian-ge-ren-bo-ke-2/</id>
+    <published>2020-06-25T03:52:56.000Z</published>
+    <updated>2020-06-29T14:54:26.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;0x01-HEXO配置&quot;&gt;&lt;a href=&quot;#0x01-HEXO配置&quot; class=&quot;headerlink&quot; title=&quot;0x01. HEXO配置&quot;&gt;&lt;/a&gt;0x01. HEXO配置&lt;/h1&gt;&lt;p&gt;博客目录结构：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;-
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo+Github搭建个人博客" scheme="https://www.simonsu.cn/categories/Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="Hexo+Github搭建个人博客" scheme="https://www.simonsu.cn/tags/Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="hexo" scheme="https://www.simonsu.cn/tags/hexo/"/>
+    
+      <category term="GitHub" scheme="https://www.simonsu.cn/tags/GitHub/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用Hexo+Github搭建个人博客（1）</title>
+    <link href="https://www.simonsu.cn/2020/06/21/yong-hexo-github-da-jian-ge-ren-bo-ke/"/>
+    <id>https://www.simonsu.cn/2020/06/21/yong-hexo-github-da-jian-ge-ren-bo-ke/</id>
+    <published>2020-06-21T12:03:29.000Z</published>
+    <updated>2020-06-29T14:54:30.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;详细说明Hexo+Github建站&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;0x00-缘由&quot;&gt;&lt;a href=&quot;#0x00-缘由&quot; class=&quot;headerlink&quot; title=&quot;0x00.  缘由&quot;&gt;&lt;/a&gt;0x00. 
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo+Github搭建个人博客" scheme="https://www.simonsu.cn/categories/Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="Hexo+Github搭建个人博客" scheme="https://www.simonsu.cn/tags/Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="hexo" scheme="https://www.simonsu.cn/tags/hexo/"/>
+    
+      <category term="GitHub" scheme="https://www.simonsu.cn/tags/GitHub/"/>
+    
+  </entry>
+  
+</feed>
