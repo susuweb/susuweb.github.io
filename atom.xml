@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.simonsu.cn/"/>
-  <updated>2020-06-29T15:06:14.000Z</updated>
+  <updated>2021-03-06T14:24:05.143Z</updated>
   <id>https://www.simonsu.cn/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>随记</title>
+    <link href="https://www.simonsu.cn/2021/03/05/sui-ji/"/>
+    <id>https://www.simonsu.cn/2021/03/05/sui-ji/</id>
+    <published>2021-03-05T10:11:32.000Z</published>
+    <updated>2021-03-06T14:24:05.143Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Mysql个人笔记</title>
