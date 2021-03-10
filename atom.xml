@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Simon_Su</title>
+  <title>LEO</title>
   
-  <subtitle>Simon&#39;s Blog</subtitle>
+  <subtitle>LEO&#39;s Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://www.simonsu.cn/"/>
+  <link href="https://www.leosusu.com/"/>
   <updated>2021-03-10T02:52:55.660Z</updated>
-  <id>https://www.simonsu.cn/</id>
+  <id>https://www.leosusu.com/</id>
   
   <author>
-    <name>Simon Su</name>
+    <name>LEO</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>随记</title>
-    <link href="https://www.simonsu.cn/2021/03/05/sui-ji/"/>
-    <id>https://www.simonsu.cn/2021/03/05/sui-ji/</id>
+    <link href="https://www.leosusu.com/2021/03/05/sui-ji/"/>
+    <id>https://www.leosusu.com/2021/03/05/sui-ji/</id>
     <published>2021-03-05T10:11:32.000Z</published>
     <updated>2021-03-10T02:52:55.660Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Mysql个人笔记</title>
-    <link href="https://www.simonsu.cn/2020/06/29/mysql-ge-ren-bi-ji/"/>
-    <id>https://www.simonsu.cn/2020/06/29/mysql-ge-ren-bi-ji/</id>
+    <link href="https://www.leosusu.com/2020/06/29/mysql-ge-ren-bi-ji/"/>
+    <id>https://www.leosusu.com/2020/06/29/mysql-ge-ren-bi-ji/</id>
     <published>2020-06-29T14:29:11.000Z</published>
     <updated>2020-06-29T15:06:14.000Z</updated>
     
@@ -61,14 +61,14 @@
     
     
     
-      <category term="数据库的基本操作" scheme="https://www.simonsu.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/"/>
+      <category term="数据库的基本操作" scheme="https://www.leosusu.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/"/>
     
   </entry>
   
   <entry>
     <title>用Hexo+Github搭建个人博客（2）</title>
-    <link href="https://www.simonsu.cn/2020/06/25/yong-hexo-github-da-jian-ge-ren-bo-ke-2/"/>
-    <id>https://www.simonsu.cn/2020/06/25/yong-hexo-github-da-jian-ge-ren-bo-ke-2/</id>
+    <link href="https://www.leosusu.com/2020/06/25/yong-hexo-github-da-jian-ge-ren-bo-ke-2/"/>
+    <id>https://www.leosusu.com/2020/06/25/yong-hexo-github-da-jian-ge-ren-bo-ke-2/</id>
     <published>2020-06-25T03:52:56.000Z</published>
     <updated>2020-06-29T14:54:26.000Z</updated>
     
@@ -86,21 +86,21 @@
     </summary>
     
     
-      <category term="Hexo+Github搭建个人博客" scheme="https://www.simonsu.cn/categories/Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+      <category term="Hexo+Github搭建个人博客" scheme="https://www.leosusu.com/categories/Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     
     
-      <category term="Hexo+Github搭建个人博客" scheme="https://www.simonsu.cn/tags/Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+      <category term="Hexo+Github搭建个人博客" scheme="https://www.leosusu.com/tags/Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     
-      <category term="hexo" scheme="https://www.simonsu.cn/tags/hexo/"/>
+      <category term="hexo" scheme="https://www.leosusu.com/tags/hexo/"/>
     
-      <category term="GitHub" scheme="https://www.simonsu.cn/tags/GitHub/"/>
+      <category term="GitHub" scheme="https://www.leosusu.com/tags/GitHub/"/>
     
   </entry>
   
   <entry>
     <title>用Hexo+Github搭建个人博客（1）</title>
-    <link href="https://www.simonsu.cn/2020/06/21/yong-hexo-github-da-jian-ge-ren-bo-ke/"/>
-    <id>https://www.simonsu.cn/2020/06/21/yong-hexo-github-da-jian-ge-ren-bo-ke/</id>
+    <link href="https://www.leosusu.com/2020/06/21/yong-hexo-github-da-jian-ge-ren-bo-ke/"/>
+    <id>https://www.leosusu.com/2020/06/21/yong-hexo-github-da-jian-ge-ren-bo-ke/</id>
     <published>2020-06-21T12:03:29.000Z</published>
     <updated>2020-06-29T14:54:30.000Z</updated>
     
@@ -120,14 +120,14 @@
     </summary>
     
     
-      <category term="Hexo+Github搭建个人博客" scheme="https://www.simonsu.cn/categories/Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+      <category term="Hexo+Github搭建个人博客" scheme="https://www.leosusu.com/categories/Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     
     
-      <category term="Hexo+Github搭建个人博客" scheme="https://www.simonsu.cn/tags/Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+      <category term="Hexo+Github搭建个人博客" scheme="https://www.leosusu.com/tags/Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     
-      <category term="hexo" scheme="https://www.simonsu.cn/tags/hexo/"/>
+      <category term="hexo" scheme="https://www.leosusu.com/tags/hexo/"/>
     
-      <category term="GitHub" scheme="https://www.simonsu.cn/tags/GitHub/"/>
+      <category term="GitHub" scheme="https://www.leosusu.com/tags/GitHub/"/>
     
   </entry>
   

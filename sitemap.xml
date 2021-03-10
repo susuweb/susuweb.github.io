@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.simonsu.cn/2021/03/05/sui-ji/</loc>
+    <loc>https://www.leosusu.com/2021/03/05/sui-ji/</loc>
     
     <lastmod>2021-03-10</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.simonsu.cn/2020/06/29/mysql-ge-ren-bi-ji/</loc>
+    <loc>https://www.leosusu.com/2020/06/29/mysql-ge-ren-bi-ji/</loc>
     
     <lastmod>2020-06-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.simonsu.cn/2020/06/21/yong-hexo-github-da-jian-ge-ren-bo-ke/</loc>
+    <loc>https://www.leosusu.com/2020/06/21/yong-hexo-github-da-jian-ge-ren-bo-ke/</loc>
     
     <lastmod>2020-06-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.simonsu.cn/2020/06/25/yong-hexo-github-da-jian-ge-ren-bo-ke-2/</loc>
+    <loc>https://www.leosusu.com/2020/06/25/yong-hexo-github-da-jian-ge-ren-bo-ke-2/</loc>
     
     <lastmod>2020-06-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.simonsu.cn/friends/index.html</loc>
+    <loc>https://www.leosusu.com/friends/index.html</loc>
     
     <lastmod>2020-06-21</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.simonsu.cn/contact/index.html</loc>
+    <loc>https://www.leosusu.com/contact/index.html</loc>
     
     <lastmod>2020-06-21</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.simonsu.cn/about/index.html</loc>
+    <loc>https://www.leosusu.com/about/index.html</loc>
     
     <lastmod>2020-06-21</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.simonsu.cn/tags/index.html</loc>
+    <loc>https://www.leosusu.com/tags/index.html</loc>
     
     <lastmod>2020-06-21</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.simonsu.cn/categories/index.html</loc>
+    <loc>https://www.leosusu.com/categories/index.html</loc>
     
     <lastmod>2020-06-21</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.simonsu.cn/404.html</loc>
+    <loc>https://www.leosusu.com/404.html</loc>
     
     <lastmod>2020-06-21</lastmod>
     
@@ -73,7 +73,7 @@
   
 
   <url>
-    <loc>https://www.simonsu.cn/</loc>
+    <loc>https://www.leosusu.com/</loc>
     <lastmod>2021-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -81,28 +81,28 @@
 
   
   <url>
-    <loc>https://www.simonsu.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</loc>
+    <loc>https://www.leosusu.com/tags/Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2021-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.simonsu.cn/tags/Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://www.leosusu.com/tags/hexo/</loc>
     <lastmod>2021-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.simonsu.cn/tags/hexo/</loc>
+    <loc>https://www.leosusu.com/tags/GitHub/</loc>
     <lastmod>2021-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.simonsu.cn/tags/GitHub/</loc>
+    <loc>https://www.leosusu.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</loc>
     <lastmod>2021-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -111,7 +111,7 @@
 
   
   <url>
-    <loc>https://www.simonsu.cn/categories/Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://www.leosusu.com/categories/Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2021-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
